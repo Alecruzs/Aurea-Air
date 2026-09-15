@@ -1,0 +1,25 @@
+{
+  "name": "aurea-air",
+  "version": "1.0.0",
+  "description": "Sistema de reservas de vuelos Aurea Air",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "vuelos",
+    "reservas",
+    "aurea-air",
+    "frontend"
+  ],
+  "author": "Frank",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
